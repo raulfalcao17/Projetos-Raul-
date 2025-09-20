@@ -1,4 +1,6 @@
 import java.util.*;
+// programa criado para aplicar os conhecimentos iniciais vistos 
+// na aula de Programação Orientada a Objetos (17/9/2025) 
 
 public class Carro {
     String modelo;
