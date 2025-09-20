@@ -1,5 +1,6 @@
 import java.util.*;
-
+// programa criado para aplicar os conhecimentos iniciais vistos 
+// na aula de Programação Orientada a Objetos (15/9/2025) 
 public class ContaBancaria {
            String titular; 
            int numero; 
